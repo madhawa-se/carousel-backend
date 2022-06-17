@@ -1,0 +1,11 @@
+node_modules/
+aws.config
+log/*.log
+.env
+.vscode
+*.sqlite
+build/*
+data
+deploy.sh
+src/config/database.json
+tsconfig.tsbuildinfo
